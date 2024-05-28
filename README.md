@@ -1,3 +1,5 @@
-### Welcome to My Profile 
+### Welcome to My Profile!
 
-![devnoot's github stats](https://github-readme-stats.vercel.app/api?username=devnoot&count_private=true&show_icons=true&theme=dracula)
+🚧 It's under construction. 🚧
+
+In the meantime, check out some of my pinned repos, or my latest project, [Doom Roulette](https://doomroulette.com)
