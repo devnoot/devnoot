@@ -23,4 +23,4 @@ Check out some of my pinned repos, or some of the projects I'm working on!
 
 **My latest trophy on RetroAchievements**
 
-![My latest trophy on RetroAchievements](https://vercel-ra-last-unlock.vercel.app/api/ra)
+![My latest trophy on RetroAchievements](https://vercel-ra-last-unlock.vercel.app/api/ra?)
