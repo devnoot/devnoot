@@ -1,0 +1,14 @@
+name: Touch RetroAchievements Endpoint
+
+on: 
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install curl
+        run: sudo apt update && sudo apt install -y curl
+      - name: Purge
+        run: curl -X PURGE "https://camo.githubusercontent.com/1381bb3372ee3e48813fdc334de603440057570d597ba4bfd54792e5d68ec62f/68747470733a2f2f76657263656c2d72612d6c6173742d756e6c6f636b2e76657263656c2e6170702f6170692f72613f"
