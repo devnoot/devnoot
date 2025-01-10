@@ -1,4 +1,4 @@
-name: Touch RetroAchievements Endpoint
+name: Purge RA Unlock Cache
 
 on: 
   schedule:
